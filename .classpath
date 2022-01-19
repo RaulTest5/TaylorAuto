@@ -7,5 +7,22 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/rulas/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Reportes/extentreports-5.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/rxjava-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/commons-io-2.11.0/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/commons-io-2.11.0/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Reportes/commons-io-2.11.0/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rulas/Documents/JavaFaker/automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rulas/Documents/JavaFaker/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rulas/Documents/JavaFaker/generex-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rulas/Documents/JavaFaker/javafaker-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rulas/Documents/JavaFaker/snakeyaml-1.23-android.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
